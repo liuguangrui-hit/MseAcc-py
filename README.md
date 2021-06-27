@@ -19,7 +19,7 @@ machine learning-based NIDS
 4. LSTM model
 5. GRU model
 
-### folders
+### Folders
 1. data_process : 数据预处理，数据集生成
 2. defense : 实现两个检测因子
 3. final : NIDS投毒检测器最终实现
