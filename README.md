@@ -6,20 +6,20 @@ machine learning-based NIDS
 ------
 
 
-# Deep Learning Models for NIDS using CICIDS2017 datasets 
+## Deep Learning Models for NIDS using CICIDS2017 datasets 
 
-## Requirements
+### Requirements
 1. `Python 3.8`
 2. `Pytorch`
 
-## Models
+### Models
 1. MLP model
 2. DNN model
 3. RNN model
 4. LSTM model
 5. GRU model
 
-## folders
+### folders
 1. data_process : 数据预处理，数据集生成
 2. defense : 实现两个检测因子
 3. final : NIDS投毒检测器最终实现
